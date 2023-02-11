@@ -107,10 +107,11 @@
         width: 100%;
     }
     .footer__item form input[type="email"]{
-        width: 70%;
+        width: 60%;
     }
     .footer__item form input[type="submit"]{
-        width: 30%;
+        width: 40%;
+        font-size: 1rem;
     }
     .map{
         width: 100%;
