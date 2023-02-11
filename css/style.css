@@ -411,6 +411,9 @@ textarea{
 .map span{
     color: #fff;
 }
+.map span a{
+    color: #fff;
+}
 
 .social__media{
     display: flex;
